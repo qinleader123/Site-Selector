@@ -3,7 +3,7 @@ Site Selector Setup Instructions
 This program is only compatible with Windows.
 __________________________________________________________________
 
-1. Download the entire folder from Google Drive to your desktop.
+1. Download the entire folder from GitHub to your desktop.
 
 2. Open the folder
 
