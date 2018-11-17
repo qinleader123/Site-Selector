@@ -9,8 +9,6 @@ __________________________________________________________________
 
 3. Move the Site Selector shortcut to your desktop.
 
-4. Then move the folder to C:\Program Files
-
 5. Now youre all set, start using Site Selector
 
 
