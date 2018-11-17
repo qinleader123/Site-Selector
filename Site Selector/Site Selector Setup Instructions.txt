@@ -9,7 +9,7 @@ __________________________________________________________________
 
 3. Move the Site Selector shortcut to your desktop.
 
-5. Now youre all set, start using Site Selector
+4. Now youre all set, start using Site Selector
 
 
 Copyright 2018 Dishonest-Uakari
