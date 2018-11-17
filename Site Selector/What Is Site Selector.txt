@@ -1,0 +1,8 @@
+What is Site Selector?
+
+Site Selector allows the user to easily access websites without the hassle of typing in URLs or even opening a web browser.
+
+NOTE: Site Selector runs on Windows only.
+
+Copyright 2018 Dishonest-Uakari
+
