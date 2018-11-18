@@ -30,9 +30,7 @@ echo.
 echo ***********************************************************************************
 echo Enter the number of the website which you would like to go to and then press enter:
 echo.
-set /p udefine= 
-echo.
-echo ***********************************************************************************
+set /p udefine=
 if %udefine%==1 start www.google.com
 if %udefine%==2 start www.hotmail.com
 if %udefine%==3 start www.yahoo.com
