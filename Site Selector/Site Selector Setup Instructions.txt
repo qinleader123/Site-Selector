@@ -3,13 +3,17 @@ Site Selector Setup Instructions
 This program is only compatible with Windows.
 __________________________________________________________________
 
-1. Download the entire folder from GitHub to your desktop.
+1. Download the entire zip folder from GitHub to your desktop.
 
 2. Open the folder
 
-3. Move the Site Selector shortcut to your desktop.
+3. Find the Site Selector Shortcut file.
 
-4. Now youre all set, start using Site Selector
+3. Move the Site Selector shortcut and the folder its in to your desktop.
+
+4. Delete the zip folder
+
+5. Now youre all set, start using Site Selector
 
 
 Copyright 2018 Dishonest-Uakari
